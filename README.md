@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devid</h1>
 <h3 align="center">A developer from USA</h3>
 
+<div align="center">
   <p>:arrow_down:</p>
 </div> 
 
