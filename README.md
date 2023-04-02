@@ -17,6 +17,12 @@
 
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/394812820799094785?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
+
+<iframe src="https://stats.netty.hosting/d-solo/MIBVglomg/nettybyte?orgId=1&panelId=62&crossOrigin=true" width={450} height={200} frameBorder={0} />
+<iframe src="https://stats.netty.hosting/d-solo/MIBVglomg/nettybyte?orgId=1&panelId=64&crossOrigin=true" width={450} height={200} frameBorder={0} />
+<iframe src="https://stats.netty.hosting/d-solo/MIBVglomg/nettybyte?orgId=1&panelId=78&crossOrigin=true" width={450} height={200} frameBorder={0} />
+		
+
   </a>
 </div>
 
