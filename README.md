@@ -18,10 +18,12 @@
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/394812820799094785?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
 
-<iframe src="https://stats.netty.hosting/d-solo/uysNx3B4z/primocl-network?orgId=1&refresh=5s&theme=dark&panelId=8" width="450" height="200" frameborder="0"></iframe>
-
   </a>
 </div>
+
+<figure class="video_container">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.047544479370118%2C46.23053702499607%2C6.061706542968751%2C46.23821801159735&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+</figure>
 
 #
 
