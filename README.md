@@ -7,11 +7,8 @@
 
 #
 
-- 🔭 I’m currently working on [NettyByte](https://nettybyte.systems)
+- 🔭 I’m currently working on [OCYSG](https://discord.gg/ocysg)
 
-- 🔭 I’m currently working on [NettyHosting](https://discord.gg/nettyhosting)
-
-- 🤝 I’m looking for help with [Primo Crimelife](https://discord.gg/primocl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
