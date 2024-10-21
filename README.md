@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devid</h1>
-<h3 align="center">A developer from USA</h3>
+<h3 align="center">A developer from Germany</h3>
 
 <div align="center">
   <p>:arrow_down:</p>
@@ -7,7 +7,7 @@
 
 #
 
-- 🔭 I’m currently working on [OCYSG](https://discord.gg/ocysg)
+- 🔭 I’m currently working on [NettyByte](https://nettybyte.work)
 
 
 <h3 align="left">Connect with me:</h3>
