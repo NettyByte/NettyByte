@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devid</h1>
-<h3 align="center">A developer from Germany</h3>
+<h3 align="center">A Developer from Germany</h3>
 
 <div align="center">
   <p>:arrow_down:</p>
